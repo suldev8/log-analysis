@@ -4,7 +4,7 @@ The main goal of this project is making queries to the [news database](https://d
 
 ## Run the code
 
-After navigating to the project directory in your terminal you can run it by using this command.
+After navigating to the project directory in your terminal you can run it by using this command:
 
 ```bash
 python log-analysis.py
